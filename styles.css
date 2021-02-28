@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 5rem;
+  font-family: sans-serif;
+}
+
+h1 {
+  padding: 1rem;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+ul {
+  list-style: none;
+  font-size: 2.25rem;
+  color: maroon;
+}
+
+li {
+  padding-bottom: 1rem;
+}
