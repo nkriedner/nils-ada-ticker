@@ -34,3 +34,4 @@ req.send();
 const adaDisplay1 = document.getElementById("ada1");
 const adaDisplay500 = document.getElementById("ada500");
 const adaDisplay1006 = document.getElementById("ada1006");
+const adaDisplay102 = document.getElementById("ada102");
