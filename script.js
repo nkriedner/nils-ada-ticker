@@ -17,6 +17,7 @@ req.onload = function() {
   adaDisplay1.textContent = Math.floor(ada1 * 100) / 100;
   adaDisplay500.textContent = Math.floor((ada1 * 500) * 100) / 100;
   adaDisplay1006.textContent = Math.floor((ada1 * 1157) * 100) / 100;
+  adaDisplay102.textContent = Math.floor((ada1 * 102) * 100) / 100;
 }
 
 req.onerror = function() {
