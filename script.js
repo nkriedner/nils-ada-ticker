@@ -16,7 +16,7 @@ req.onload = function() {
   ada1 = data.ticker.price;
   adaDisplay1.textContent = Math.floor(ada1 * 100) / 100;
   adaDisplay500.textContent = Math.floor((ada1 * 500) * 100) / 100;
-  adaDisplay1006.textContent = Math.floor((ada1 * 1563) * 100) / 100;
+  adaDisplay1006.textContent = Math.floor((ada1 * 1561) * 100) / 100;
   adaDisplay102.textContent = Math.floor((ada1 * 102) * 100) / 100;
 }
 
